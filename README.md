@@ -1,1 +1,1 @@
-# Regsitro-candidatos
+# Registro-candidatos
